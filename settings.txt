@@ -1,0 +1,9 @@
+sudo apt install python
+sudo apt install yum
+sudo apt install scrot // copying images to clipboard
+sudo apt install xclip // copying contents in terminal mode
+sudo apt install git
+// install vscode
+sudo apt install blueutith 
+// refer to: https://gist.github.com/aidos-dev/b49078c1d8c6bb1621e4ac199d18213b (airpod)
+
