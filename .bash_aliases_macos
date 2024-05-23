@@ -9,3 +9,10 @@ alias show="open"
 alias ref="~/.scripts/reference_macos.sh"
 alias wrtn="~/.scripts/wrtn_macos.sh"
 alias doc="~/.scripts/documentation_macos.sh"
+
+
+# ZIP use-cases
+#zip -r compressed.zip /path/to/dir
+#zip -r compressed.zip /path/to/dir1 /path/to/dir2 /path/to/file3
+#
+#unzip compressed.zip  -d /path/to/put
