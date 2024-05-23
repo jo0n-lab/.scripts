@@ -1,0 +1,11 @@
+#!/bin/bash
+alias clp="pbcopy"
+alias targz="tar -zcvf"
+alias untargz="tar -zxvf"
+
+
+alias algo="g++ main.cc -o main -std=gnu++11"
+alias show="open"
+alias ref="~/.scripts/reference_macos.sh"
+alias wrtn="~/.scripts/wrtn_macos.sh"
+alias doc="~/.scripts/documentation_macos.sh"
